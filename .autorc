@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "lsscodes",
+  "repo": "container-na3cxqm",
+  "name": "lsscodes",
+  "email": "lsscodes@gmail.com",
+}
